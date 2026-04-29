@@ -69,4 +69,4 @@ To verify this, model performance was also checked after removing `cibil_score`.
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Benny33567/loan-Approval-Prediction-ML.git
+git clone https://github.com/Benny33567/Loan-Approval-Prediction-ML.git
